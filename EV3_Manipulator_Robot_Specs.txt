@@ -1,0 +1,1 @@
+// The hardware specifications of the EV3 Robot will be published soon
